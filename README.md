@@ -1,5 +1,8 @@
 # Ride-Sharing-Optimization
 
+🛠️ This is a fork of the original team project. I contributed equally as a collaborator, with my commits on the main repository.
+
+
 # CS201 - DSA Project  
 **Project Title:** Ride-Sharing Optimization System Using R-Trees and Splay Trees  
 **Instructor:** Dr. Anil Shukla  
